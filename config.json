@@ -1,7 +1,8 @@
 {
   "downloads": {
-    "CHEAT BLOOD STRIKE": "https://www.mediafire.com/file/8yvswjkvi8tabmb/BloodStrike.apk/file",
-    "CHEAT 8 BALL POOL": "https://www.mediafire.com/file/7bynexe06jcyopl/8_Ball_Pool.apk/file",
+    "BLOOD STRIKE V1": "https://www.mediafire.com/file/8yvswjkvi8tabmb/BloodStrike.apk/file",
+    "BLOOD STRIKE V2": "https://www.mediafire.com/file/zphy9rslvam9v0g/Blood_Strike_V2.apk/file",
+    "8 BALL POOL": "https://www.mediafire.com/file/7bynexe06jcyopl/8_Ball_Pool.apk/file",
     "AINCRAD MODS": "https://www.mediafire.com/file/ii31kkamm0v9kj8/AincradClient+3.5.apk/file",
     "BKL SENSI": "https://www.mediafire.com/file/wpznqsnhqi4v5lk/BKL_SENSI-v2.1.apk/file",
     "VEXTU PROXY": "https://www.mediafire.com/file/ohrpgv4i0vioemj/Vextu_Proxy.apk/file",
@@ -11,8 +12,9 @@
   "passwords": {
     "VEXTU PROXY": "vextuproxy1230",
     "XITEXE PROXY": "xitexeproxy1209",
-    "CHEAT BLOOD STRIKE": "bs26420008",
-    "CHEAT 8 BALL POOL": "8ball2642008",
+    "BLOOD STRIKE V1": "bs26420008",
+    "BLOOD STRIKE V2": "bs1230",
+    "8 BALL POOL": "8ball2642008",
     "AINCRAD MODS": "copilot1230",
     "BKL SENSI": "bkl1230",
     "KURAMA MODS": "kurama55555"
@@ -22,7 +24,7 @@
     "BKL SENSI": "Yeat"
   },
   "accountInfo": {
-    "CHEAT 8 BALL POOL": { "username": "ADIK", "password": "NCS" }
+    "8 BALL POOL": { "username": "ADIK", "password": "NCS" }
   },
   "icons": {
     "downloadApk": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M4 22q-.825 0-1.412-.587T2 20V4q0-.825.588-1.412T4 2h7.175q.4 0 .763.15t.637.425l4.85 4.85q.275.275.425.638t.15.762v2.425q0 .425-.288.713T17 12.25h-1q-.425 0-.712.288T15 13.25V21q0 .425-.288.713T14 22zm7-13h5l-5-5zM5 19h10q-.1-1.225-.75-2.25t-1.7-1.625l.95-1.7q.05-.1.025-.225t-.15-.175q-.1-.05-.213-.025t-.162.125l-.975 1.75q-.5-.2-1-.312T10 14.45q-.525 0-1.025.113t-1 .312L7 13.125Q6.95 13 6.838 13t-.238.05l-.1.375l.95 1.7q-1.05.6-1.7 1.625T5 19m2.75-1.5q-.2 0-.35-.15T7.25 17q0-.2.15-.35t.35-.15q.2 0 .35.15t.15.35q0 .2-.15.35t-.35.15m4.5 0q-.2 0-.35-.15t-.15-.35q0-.2.15-.35t.35-.15q.2 0 .35.15t.15.35q0 .2-.15.35t-.35.15m6.75.65V15q0-.425.288-.712T20 14q.425 0 .713.288T21 15v3.15l.9-.875q.3-.275.7-.275t.7.3q.275.3.287.7t-.287.7l-2.6 2.6q-.3.3-.7.3t-.7-.3l-2.6-2.6q-.275-.275-.288-.687t.288-.713q.275-.3.7-.3t.725.275z\"/></svg>",
